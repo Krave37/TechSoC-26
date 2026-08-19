@@ -1,0 +1,45 @@
+Shipment Report!!!
+ 
+Total Shipment Weight: 465
+Average Container Weight: 77
+Heaviest Container: 205
+Lightest Container: 5
+Classsification: Heavy
+Port Capacity: 900
+Status: Shipment can be loaded
+Shipment Report!!!
+ 
+Total Shipment Weight: 170
+Average Container Weight: 56
+Heaviest Container: 90
+Lightest Container: 30
+Classsification: Light
+Port Capacity: 200
+Status: Shipment can be loaded
+Shipment Report!!!
+ 
+Total Shipment Weight: 240
+Average Container Weight: 60
+Heaviest Container: 100
+Lightest Container: 20
+Classsification: Heavy
+Port Capacity: 100
+Status: Shipment exceeds port capacity
+Shipment Report!!!
+ 
+Total Shipment Weight: 390
+Average Container Weight: 78
+Heaviest Container: 110
+Lightest Container: 50
+Classsification: Heavy
+Port Capacity: 1000
+Status: Shipment can be loaded
+Shipment Report!!!
+ 
+Total Shipment Weight: 165
+Average Container Weight: 27
+Heaviest Container: 60
+Lightest Container: 5
+Classsification: Light
+Port Capacity: 300
+Status: Shipment can be loaded
